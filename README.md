@@ -1,10 +1,30 @@
-- 👋 Hi, I’m @Raphael711
-- 👀 I’m interested in learn full-stack...
-- 🌱 I’m currently learning front-end...
-- 💞️ I’m looking to collaborate on what I can...
-- 📫 How to reach me? You can send me an email raphael.oliveira711@gmail.com ...
 
-<!---
-Raphael711/Raphael711 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+#  Raphael Oliveira ✋🏼
+
+
+
+
+🖥 Sou desenvolvedor Front-End Jr.
+
+📈 Atualmente trabalho como Contador.
+
+🔍 Em transição de carreira, buscando uma oportunidade.
+
+
+
+
+### 🧠 Conhecimento em:
+ • Figma • HTML • CSS • Git
+ 
+ 
+ 
+### ✈️ Idiomas
+
+🇧🇷 Português - Fluente/Nativo
+
+🇺🇸 Inglês - Intermediário/Avançado
+
+
+
+### 🔗 Rede Social
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphael-oliveira-666430179/)
