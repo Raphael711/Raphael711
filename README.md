@@ -4,7 +4,7 @@
 
 
 
-🖥 Sou desenvolvedor Front-End Jr.
+🖥 Sou Desenvolvedor de Software Jr. 
 
 📈 Atualmente trabalho como Contador.
 
@@ -14,7 +14,7 @@
 
 
 ### 🧠 Conhecimento em:
- • Figma • HTML • CSS • Git
+ • Figma • HTML • CSS • Git • Java
  
  
  
@@ -22,7 +22,7 @@
 
 🇧🇷 Português - Fluente/Nativo
 
-🇺🇸 Inglês - Intermediário/Avançado
+🇺🇸 Inglês - B2
 
 
 
