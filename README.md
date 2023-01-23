@@ -4,25 +4,24 @@
 
 
 
-🖥 Sou Desenvolvedor de Software Jr. 
+🖥 Software Developer. 
 
-📈 Atualmente trabalho como Contador.
 
-🔍 Em transição de carreira, buscando uma oportunidade.
-
+🔍 Looking for an opportunity.
 
 
 
-### 🧠 Conhecimento em:
- • Figma • HTML • CSS • Git • Java
+
+### 🧠 Knowledge in:
+ • Java • HTML • CSS • Git • SQL
  
  
  
-### ✈️ Idiomas
+### ✈️ Languages:
 
-🇧🇷 Português - Fluente/Nativo
+🇧🇷 Portuguese - Native
 
-🇺🇸 Inglês - B2
+🇺🇸 English - C1
 
 
 
